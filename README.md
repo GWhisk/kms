@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/TypeMonkey/kms/master/kms_logo.png" width="200" height="75">
+<img src="https://raw.githubusercontent.com/GWhisk/kms/master/kms_logo.png" width="200" height="75">
 
 A command line program that helps you make the ultimate decision ... _cleanly_
 
