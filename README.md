@@ -4,7 +4,7 @@
 A command line program that helps you make the ultimate decision ... _cleanly_
 
 ##
-**BEFORE YOU CONTINUE, PLEASE READ THE [WIKI](http://https://github.com/GWhisk/kms/wiki "WIKI").**
+**BEFORE YOU CONTINUE, PLEASE READ THE [WIKI](http://https://github.com/GWhisk/kms/wiki).**
 
 kms is a **protest piece / protest software.** The program itself isn't meant to be taken **literally**. 
 
