@@ -3,8 +3,15 @@
 
 A command line program that helps you make the ultimate decision ... _cleanly_
 
+##
+**BEFORE YOU CONTINUE, PLEASE READ THE [WIKI](http://https://github.com/GWhisk/kms/wiki "WIKI").**
 
+kms is a **protest piece / protest software.** The program itself isn't meant to be taken **literally**. 
+
+Read more about it here: [**LINK**](http://https://github.com/GWhisk/kms/wiki).
+##
 # Purpose
+
 
 There comes a moment, if not multiple moments, in our lives where we question every aspect of our existence. Sometimes, we get to a point where we ask ourselves if continuing to live is even worth it at all.
 
