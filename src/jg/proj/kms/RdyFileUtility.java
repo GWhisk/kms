@@ -88,7 +88,7 @@ public class RdyFileUtility {
           i++;
         }
 
-        System.out.println("PARSED WHOLE COMMAND: "+enclosedCommand);
+        //System.out.println("PARSED WHOLE COMMAND: "+enclosedCommand);
 
         //parse command name
         String commandName = "";
@@ -103,7 +103,7 @@ public class RdyFileUtility {
         }
 
         commandName = commandName.trim();
-        System.out.println("---PARSED COMMAND NAME: |"+commandName+"|");
+        //System.out.println("---PARSED COMMAND NAME: |"+commandName+"|");
 
         //check if command name is supported
         Command command = null;

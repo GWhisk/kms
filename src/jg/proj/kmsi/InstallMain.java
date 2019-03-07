@@ -129,7 +129,8 @@ public class InstallMain {
 
 		try {
 			PrintWriter writer = new PrintWriter(batchFile);
-			writer.println("javaw.exe -jar \""+new File(targetDir, "kmon.jar").getAbsolutePath()+"\"");
+	    writer.println("@echo off");
+			writer.println("start javaw.exe -jar \""+new File(targetDir, "kmon.jar").getAbsolutePath()+"\"");
 			writer.flush();
 			writer.close();
 			System.out.println("* Startup file created. ");

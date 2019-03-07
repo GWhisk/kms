@@ -105,6 +105,16 @@ public class TermMain {
 			System.exit(-1);
 		}
 
+		//attempt to diffuse the situation
+		stopAndBreathe();
+		System.out.println("  Would you like to continue? (y/n) ");
+		Scanner scanner = new Scanner(System.in);
+		if (scanner.next().toLowerCase().startsWith("n")) {
+      scanner.close();
+      return;
+    }
+		scanner.close();
+
 		File rdyFileDir = new File(System.getProperty("user.home"), "kms/scripts/"+count+".rdy");
 		RdyFileUtility.writeRdyFile(rdyFile, rdyFileDir);
 
@@ -122,6 +132,11 @@ public class TermMain {
 		Platform.exit();
 	}
 
+	/**
+	 * Alerts kmonitor - the kms aspect that actually schedules .rdy scripts for execution - that a new .rdy
+	 * is ready for scheduling.
+	 * @return true if kmonitor was successfully alerted. False, if not.
+	 */
 	private static boolean alertKmonitor(){
 	  int portNumber = 9999;
 	  try {
@@ -135,6 +150,14 @@ public class TermMain {
       return false;
     }
 	}
+
+	/**
+	 * Tries to diffuse the situation and asks the user to re-asses their thoughts.
+	 * If possible, it'll open the machine's default webrowser to helpful websites.
+	 */
+	private static void stopAndBreathe() {
+	  Diffuser.entrance();
+  }
 
 	/**
 	 * Reads and returns the current rdy file count
