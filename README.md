@@ -77,15 +77,15 @@ Currently, <font face="courier new"  color="black">kms</font> supports 5 standar
 
 ## Example use of <font face="courier new"  color="black">kms</font>
 
- **Scenario:**  It's 11 p.m and you're typing rapidly into Vim. You think to yourself: _"If I just switch these two variables around, my program should work."_ . You enter `:w` in hopes of finally fixing that damned segfault error that has been haunting you for the past four hours. The compiler is silent, but finishes nonetheless. This time, the program runs for a little longer. No errors being printed out, no weird characters - everything is quiet on the digital front. 
+ **Scenario:**  It's 11 p.m and you're typing rapidly into Vim. You think to yourself: _"If I just switch these two variables around, my program should work."_ . You enter `:w` in hopes of finally fixing that damned segfault error that has been haunting you for the past four hours. The compiler is silent, but finishes nonetheless. This time, the program runs for a little longer. No errors are being printed out, no weird characters - everything is quiet on the digital front. 
 
-<font face="courier new"  color="red">Segmentation fault (core dumped)</font>
+<font face="courier new"  color="red"> **Segmentation fault (core dumped)** </font>
 
 Defeated, the clock stares you down, mocking you as it ticks your time away. You take another look at your screen, trying to sort through the spaghetti code your hands typed out. The black void that surrounds each character seemingly grows with each stare. Staring starts to hurt, so you look around the room to ease your eyes.
 
 It's barren. No one else is here. Your classmates have finished. The tutors have gone home. The TA's are probably drinking themselves to amnesia. There is no help. There is no hope. 
 
-So, you start to calculate your chances of passing this class. Your pass assignment scores aren't stellar. You just bombed your midterm despite taking time out of your other classes for this course. The weekly quizzes are the only thing keeping you afloat. But the ice beneath you is shrinking. And you know you'll fail if you don't finish this course.
+So, you start to calculate your chances of passing this class. Your pass assignment scores aren't stellar. You just bombed your midterm despite taking time out of your other classes for this course. The weekly quizzes are the only thing keeping you afloat. But the ice beneath you is shrinking. And you know you'll fail if you don't finish this assignment.
 
 Your other classes aren't looking so good either. You had to half-ass your art history essay just so you can go to office hours for this class. And doing that only gave you non-answers from the person you would think would have solutions.  
 
@@ -97,29 +97,34 @@ Shame, guilt, blame, humiliation, embarrassment, desperation, anxiety, lonelines
 
 _Except one._ you think to yourself.
 
-You start looking up ways to do it. The goal is for a painless and quick method. You don't want anyone to interrupt you - which is unlikely looking at it now. Your card does allow for roof access, so that's an option. There's also a pharmacy nearby if medication is needed.
+You start looking up ways to do it. The goal is for a painless and quick method. You don't want anyone to interrupt you - which is unlikely looking at it now. Your card does allow for roof access so that's an option. There's also a pharmacy nearby if medication is needed.
 
 Ah, good choice. Very creative. 
 
-But you should leave a note. Things like this always have a not. Didn't you have you make that Java program that can make post to your Facebook account? Maybe you can finally put it to good use.
+But you should leave a note. Things like this always have a note. Didn't you have you make that Java program that can submit posts to your Facebook account? Maybe you can finally put it to good use.
 
 `kms 12:00 {exec javac -jar fbposter.java last_message.txt}` , you enter into the terminal. 
 
-You drive out to the nearby pharmacy and purchase the tools, and a bottle of vodka. It's a bit pricey, but you have to live life to your fullest right? 
+You drive out to the nearby pharmacy and purchase the tools, along with a bottle of vodka. It's a bit pricey, but you have to live life to your fullest right? 
 
-The lab is still empty. You begin chugging down the vodka, hoping to feel that buzz and warmth. Instead you puke. Questions off doubt begin to raise through your mind, but it's too late, the alcohol has reached your mind and washed it of doubt. 
+The lab is still empty. You begin chugging down the vodka, hoping to feel that buzz and warmth. Instead you puke. Questions of doubt begin to raise through your mind, but it's too late, the alcohol has reached your mind and washed it of uncertainty. 
 
-The numbing cream was a good choice. It makes the cutting less painful. You rub it on wrists and can immediately feel the effects. The razors are a bit old fashioned, but it's not like the pharmacy was selling knives. Remember: across the line for a punishment, along it for release. 
+The numbing cream was a good choice. It makes the cutting less painful. You rub it on your wrists and can immediately feel the effects. The razors are a bit old fashioned, but it's not like the pharmacy was selling knives. Remember: across the line for punishment, along it for release. 
 
-For a moment, your senses return. For a moment, your doubts are casted aside by an array of hope. For a moment, you reason with yourself of other options other than this. For a moment, you consider just going home and planning for a new future.
+For a moment, your senses return. 
+For a moment, your doubts are casted aside by an array of hope. 
+For a moment, you reason with yourself of other options other than this. 
+For a moment, you consider just going home and planning for a new future.
 
-Then you realize: it's all going to be the same. the truth is, you've always been at the bottom of the abyss. For every small achievement you feel, a greater failure awaits you. No achievement can climb you out of the hole you dug yourself in. You've been clawing your way out for way too long. You're tired. You've given up. There's nothing else you can do. Other than ... _leave_.
+Then you realize: it's all going to be the same. The truth is, you've always been at the bottom of the abyss. For every small achievement you feel, a greater failure awaits you. No achievement can climb you out of the hole you dug yourself in. You've been clawing your way out for way too long. You're tired. You've given up. There's nothing else you can do. Other than ... _leave_.
 
-The cream made the cutting quick and relative painless. But it's not like you were aware of it, or did a good job of it, with much of it with your current buzzed out head. Damn, that's a lot of blood. Jesus, the keyboard is drenched with it. You decide to just let your arms hang by your sides. It makes the draining easier.
+The cream made the cutting quick and relative painless. But it's not like you were aware of it, or did a good job of it, with much of your mind buzzed out. 
+
+Damn, that's a lot of blood. Jesus, the keyboard is drenched with it. You decide to just let your arms hang by your sides. It makes the draining easier.
 
 A feeling of physical weakness takes over your body. Your face starts to feel cold and it becomes harder to move your arms. Your thoughts loose cohesion as you start to black out. It's getting difficult to keep your eyes open. Is this how it feels to finally sleep? 
 
-It's finally 12:00 a.m. Your screen shows:
+It's 12:00 a.m. Your screen shows:
 
 `12:00 trigger activated. Commands executed.`
 
