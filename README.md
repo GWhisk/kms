@@ -85,7 +85,7 @@ Defeated, the clock stares you down, mocking you as it ticks your time away. You
 
 It's barren. No one else is here. Your classmates have finished. The tutors have gone home. The TA's are probably drinking themselves to amnesia. There is no help. There is no hope. 
 
-So, you start to calculate your chances of passing this class. Your pass assignment scores aren't stellar. You just bombed your midterm despite taking time out of your other classes for this course. The weekly quizzes are the only thing keeping you afloat. But the ice beneath you is shrinking. And you know you'll fail if you don't finish this assignment.
+So, you start to calculate your chances of passing this class. Your past assignment scores aren't stellar. You just bombed your midterm despite taking time out of your other classes for this course. The weekly quizzes are the only thing keeping you afloat. But the ice beneath you is shrinking. And you know you'll fail if you don't finish this assignment.
 
 Your other classes aren't looking so good either. You had to half-ass your art history essay just so you can go to office hours for this class. And doing that only gave you non-answers from the person you would think would have solutions.  
 
