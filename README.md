@@ -22,7 +22,7 @@ Most of us have all dealt, and continue to deal with:
 * Immense dissapointment
 * Growing self-hate
 * Feeling like an impostor, or a fraud
-* Being an immense dissapointment
+* Being an immense disappointment
 * Crippling stress
 * Crippling loneliness
 * Social exclusion
@@ -36,7 +36,7 @@ And due to that, sometimes, we don't get through it at all and let everything bu
 Suicide becomes the attractive option. The only option.
 
 ## <font face="courier new"  color="black">kms</font> usage
-<font face="courier new" color="black">kms</font> allows one to set a list of commands to be executed at set point in time (PIT),
+<font face="courier new" color="black">kms</font> allows one to set a list of commands to be executed at a set point in time (PIT),
 
 A PIT can be entered as a concatenation of date and time (in 24 hour format), as such:  <font face="courier new" color="black"> YYYY:mm:dd:hh:mm </font>
 
@@ -93,7 +93,7 @@ And just before you started, you just received your math midterm scores. The med
 
 _ding_ . You just got an email. It's from your college counselor reminding you to stay above a 2.0 for the quarter or be put in jeopardy of being kicked out of the university. Fuck, you can't have that that. What would your parents think? They put all their hope, support and resources to get you through. But you realize that maybe, you can't get through. Your mind was never fit for this school. Just look at this room: you're the only one left. Everybody's done. You can't even fix a single bug. And if you can't do that, then what can you do? Build software for a Fortune 500 company? Hell no. You're not John, who was able to score his first internship at Facebook as a freshman. A freshman! John was able to finish in time also. He's always with his study group, cracking shitty programming jokes. You wish you had that: a group to belong to. Looking at it now, you really don't have anyone on campus to call as a friend. Perhaps the school psychologist? But you only see him every few weeks right? Kinda shitty for the school to not fund that kind of service more. That's life though....
 
-Shame, guilt, blame, humiliation, embarrassment, desperation, anxiety, loneliness, depression ... You're mind is now on fire as your run through solutions. None of them work. 
+Shame, guilt, blame, humiliation, embarrassment, desperation, anxiety, loneliness, depression ... Your mind is now on fire as you run through solutions. None of them work. 
 
 _Except one._ you think to yourself.
 
@@ -105,9 +105,9 @@ But you should leave a note. Things like this always have a note. Didn't you hav
 
 `kms 12:00 {exec javac -jar fbposter.java last_message.txt}` , you enter into the terminal. 
 
-You drive out to the nearby pharmacy and purchase the tools, along with a bottle of vodka. It's a bit pricey, but you have to live life to your fullest right? 
+You drive out to the nearby pharmacy and purchase the tools, along with a bottle of vodka. It's a bit pricey, but you have to live life to the fullest right? 
 
-The lab is still empty. You begin chugging down the vodka, hoping to feel that buzz and warmth. Instead you puke. Questions of doubt begin to raise through your mind, but it's too late, the alcohol has reached your mind and washed it of uncertainty. 
+The lab is still empty. You begin chugging down the vodka, hoping to feel that buzz and warmth. Instead you puke. Questions of doubt begin to race through your mind, but it's too late, the alcohol has reached your mind and washed it of uncertainty. 
 
 The numbing cream was a good choice. It makes the cutting less painful. You rub it on your wrists and can immediately feel the effects. The razors are a bit old fashioned, but it's not like the pharmacy was selling knives. Remember: across the line for punishment, along it for release. 
 
@@ -118,11 +118,11 @@ For a moment, you consider just going home and planning for a new future.
 
 Then you realize: it's all going to be the same. The truth is, you've always been at the bottom of the abyss. For every small achievement you feel, a greater failure awaits you. No achievement can climb you out of the hole you dug yourself in. You've been clawing your way out for way too long. You're tired. You've given up. There's nothing else you can do. Other than ... _leave_.
 
-The cream made the cutting quick and relative painless. But it's not like you were aware of it, or did a good job of it, with much of your mind buzzed out. 
+The cream made the cutting quick and relatively painless. But it's not like you were aware of it, or did a good job of it, with much of your mind buzzed out. 
 
 Damn, that's a lot of blood. Jesus, the keyboard is drenched with it. You decide to just let your arms hang by your sides. It makes the draining easier.
 
-A feeling of physical weakness takes over your body. Your face starts to feel cold and it becomes harder to move your arms. Your thoughts loose cohesion as you start to black out. It's getting difficult to keep your eyes open. Is this how it feels to finally sleep? 
+A feeling of physical weakness takes over your body. Your face starts to feel cold and it becomes harder to move your arms. Your thoughts lose cohesion as you start to black out. It's getting difficult to keep your eyes open. Is this how it feels to finally sleep? 
 
 It's 12:00 a.m. Your screen shows:
 
