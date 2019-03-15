@@ -3,13 +3,14 @@
 
 A command line program that helps you make the ultimate decision ... _cleanly_
 
-##
-**BEFORE YOU CONTINUE, PLEASE READ THE [WIKI](https://github.com/GWhisk/kms/wiki/Actual-Purpose-of-kms).**
+## **BEFORE YOU CONTINUE, PLEASE READ THE [WIKI](https://github.com/GWhisk/kms/wiki/Actual-Purpose-of-kms).** 
 
-kms is a **protest piece / protest software.** The program itself isn't meant to be taken **literally**. 
+# kms is a **protest piece / protest software.** The program itself is not meant to be taken literally.
 
-Read more about it here: [**LINK**](https://github.com/GWhisk/kms/wiki/Actual-Purpose-of-kms).
-##
+# Disclaimer: The creator of this intellectual property does not condone suicide or any form of self harm.
+
+## Read more about it here: [**LINK**](https://github.com/GWhisk/kms/wiki/Actual-Purpose-of-kms).
+
 # Purpose
 
 
@@ -55,21 +56,21 @@ Usage of <font face="courier new"  color="black">kms</font> commands is as follo
 Currently, <font face="courier new"  color="black">kms</font> supports 5 standard commands:
 
 *  <font face="courier new"  color="black">delete </font>- deletes a list of folders and/or files
-	* Accepts at least one arguments: all of which are expected to be valid file or directory paths.
+	* Accepts one or more argument(s): all of which are expected to be valid file or directory paths.
 	* Example: `delete <story.txt> <stories/> <music.mp3>`
-		* This deletes the file <font face="courier new"  color="black">story.txt</font> , the files inside <font face="courier new"  color="black">stories/</font> and its sub-directories, and <font face="courier new"  color="black">music.mp3</font>
-* <font face="courier new"  color="black">make</font> - creates a new file with a given path and allows the user to write a textual message in it
+		* This deletes the file <font face="courier new"  color="black">story.txt</font>, the files inside <font face="courier new"  color="black">stories/</font> and its sub-directories, and <font face="courier new"  color="black">music.mp3</font>
+* <font face="courier new"  color="black">make</font> - creates a new file with a given path and allows the user to write a message to the file.
 	* Accepts two arguments: The first being the path of the file to write to/or create (if yet to exist). The second being the message to write.
 	* Example: `make <farewell.txt> <I'm sorry>`
-		* First checks whether <font face="courier new"  color="black">farewell.txt</font> exists, if not, it creates the file. Then, it write `I'm sorry` to the file
+		* First checks whether <font face="courier new"  color="black">farewell.txt</font> exists, if not, it creates the file. Then, it writes `I'm sorry` to the file
 * <font face="courier new"  color="black">display</font> - displays an image in full screen view for a set amount of seconds, or indefinitely. (JPEG, PNG and GIF images are supported)
 	* Accepts two arguments: The first being the path of the image. The second being the amount of seconds to display the image for.
 	* Example: `display <farewell.jpg> <10>`
 		* Displays the JPG <font face="courier new"  color="black">farewell.jpg</font> for 10 seconds
 * <font face="courier new"  color="black">play</font> - plays an audio file (MP3, AAC, PCM) to completion, or for a set amount of seconds
 	* Accepts two arguments: The first being the path to the audio file. The second being the duration, in seconds, to play the audio file for - or a negative value to play the file to completion.
-	* Example: `play <no fun.mp3> <10>`
-		* Plays the MP3 file `no fun.mp3` for 10 seconds
+	* Example: `play <"no fun.mp3"> <10>`
+		* Plays the MP3 file `"no fun.mp3"` for 10 seconds
 * <font face="courier new"  color="black">exec</font> - executes shell commands
 	* Accepts one argument: The whole shell command to execute
 	* Example: `exec <rm -rf .git>`
